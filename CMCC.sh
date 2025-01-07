@@ -1,1 +1,0 @@
-./cfnat-termux -colo=HKG
