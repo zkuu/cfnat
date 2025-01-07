@@ -1,1 +1,1 @@
-cfnat-termux -colo=SJC,LAX
+./cfnat-termux -colo=SJC,LAX
