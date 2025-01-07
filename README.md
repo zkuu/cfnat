@@ -1,11 +1,13 @@
 @https://t.me/CF_NAT/38840
 
 Usage of cfnat:
+
 -addr string
 本地监听的 IP 和端口 (default "0.0.0.0:1234")
 
 -code int
 HTTP/HTTPS 响应状态码 (default 200)
+
 -colo string
 筛选数据中心例如 HKG,SJC,LAX (多个数据中心用逗号隔开,留空则忽略匹配)
 
